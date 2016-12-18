@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 This repository hosts the R code and documentation files for Course project for Data Science "Getting and Cleaning Data"
-Ernesto Budia Sanchez 18/10/2016
+Ernesto Budia Sanchez 18/12/2016
 
 ## Files
 
