@@ -1,5 +1,6 @@
-#Ernesto Budia Sánchez
+#Ernesto Budia SÃ¡nchez
 #Getting and Cleaning Data Course Project
+#18/12/2016
 
 #Download data
 if (!file.exists('data.zip')){
