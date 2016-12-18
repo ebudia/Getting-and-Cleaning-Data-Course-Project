@@ -16,7 +16,7 @@ Ernesto Budia Sanchez 18/12/2016
     + Appropriately labels the data set with descriptive variable names.
     + From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-+ tidydataset.txt The output of the last step is called, and uploaded in the course project's form.
++ tidydataset.txt The output of the last step, contains the average of each variable for each activity and each subject. Uploaded in the course project's form.
 
 ## Data
 + data for the project https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
